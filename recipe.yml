@@ -1,0 +1,12 @@
+name: 'Zoocha SEO Recipe'
+description: 'Provides SEO related modules for Zoocha.'
+type: 'Feature'
+
+install:
+  - simple_sitemap
+  - metatag
+  - metatag_open_graph
+  - length_indicator
+  - easy_breadcrumb
+config:
+  strict: false
