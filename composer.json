@@ -1,6 +1,6 @@
 {
-    "name": "zr/seo-recipe",
-    "description": "Zoocha SEO Recipe Bundle",
+    "name": "zr/zr-seo-bundle",
+    "description": "ZR SEO Bundle",
     "type": "drupal-recipe",
     "require": {
         "php": ">=8.1",

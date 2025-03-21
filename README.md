@@ -11,7 +11,7 @@ To install the Zoocha SEO Recipe, follow the steps below:
 4. Run the following command to execute the Zoocha SEO Recipe installation:
 
     ```sh
-    ddev drush recipe recipes/custom/seo-recipe
+    ddev drush recipe recipes/custom/zr-seo-bundle
     ```
 
 This command will execute the Zoocha SEO Recipe installation.
