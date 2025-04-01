@@ -6,7 +6,5 @@ install:
   - simple_sitemap
   - metatag
   - metatag_open_graph
-  - length_indicator
-  - easy_breadcrumb
 config:
   strict: false
